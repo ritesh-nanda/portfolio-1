@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### Hello Guys ! 😎🤘
 <br>
 
@@ -26,3 +27,9 @@ My Tech Stack :<p align = "center">
 - 🛠 Fun Fact: Less of coding part time in designing machines Full Time !
 
 To know more about me : https://ritesh-nanda.github.io/ritesh-nanda/
+=======
+Just my portfolio !
+<<<<<<< HEAD
+>>>>>>> parent of 8f94492... Update Readme.txt
+=======
+>>>>>>> parent of 8f94492... Update Readme.txt
